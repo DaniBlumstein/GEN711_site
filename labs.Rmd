@@ -38,59 +38,59 @@ __Week 1__</br>
 
 __Week 2__</br>
 - Log in to [Jetstream](https://use.jetstream-cloud.org/). Here is some [info about it](https://iujetstream.atlassian.net/wiki/spaces/JWT/pages/17465367/System+Overview).</br>
-- [Setting up your Jetstream VM](usingssh.md)</br>
-- [Launch a Jetstream instance](jetstream.md)</br>
-- [Connect to a Jetstream instance](connect.md)</br>
+- [Setting up your Jetstream VM](usingssh.html)</br>
+- [Launch a Jetstream instance](jetstream.html)</br>
+- [Connect to a Jetstream instance](connect.html)</br>
 
 __Week 3__</br>
-- [Command Line BLAST](lab1_blast.md)</br>
+- [Command Line BLAST](lab1_blast.html)</br>
 
 __Week 4__</br>
-- [Use a HMM to identify unknown sequences](hmmer.md)</br>
+- [Use a HMM to identify unknown sequences](hmmer.html)</br>
 
 __Week 5__</br>
 - MSA?</br>
 
 __Week 6__ </br>
-- [Trimming fastQ files](trimming.md)</br>
+- [Trimming fastQ files](trimming.html)</br>
 
 ***
 ### __Practice Exams__</br>
-- Practice Exam1 [A](lab_exam1.md)
-- Practice Exam1 [B](lab_exam1a.md)
-- Practice Exam1 [C](lab_exam1b.md)
-- Practice Exam1 [D](lab_exam1c.md)
+- Practice Exam1 [A](lab_exam1.html)
+- Practice Exam1 [B](lab_exam1a.html)
+- Practice Exam1 [C](lab_exam1b.html)
+- Practice Exam1 [D](lab_exam1c.html)
 - [Exam 1 section 1]()
 - [Exam 1 section 2]()
 
 ***
 ### __Lab Schedule continued__
 __Week 9__</br>
-- [transcriptome assembly](transcriptome.md)</br>
+- [transcriptome assembly](transcriptome.html)</br>
 
 __Week 10__</br>
-- [gene expression](expression.md)</br>
+- [gene expression](expression.html)</br>
 
 __Week 11__</br>
-- [genome assembly](bacterial_assembly.md)</br>
+- [genome assembly](bacterial_assembly.html)</br>
 
 __Week ?__</br>
 - [final project tips](final_project.m)</br>
 
 __Week ?__</br>
-- [Use phylogenetics to identify unknown sequences](phylogenetics.md)</br>
+- [Use phylogenetics to identify unknown sequences](phylogenetics.html)</br>
 
 __Week ?__ </br>
-- [Mapping read data!!!](mapping.md)</br>
+- [Mapping read data!!!](mapping.html)</br>
 
 __Week ?__</br>
-- [kmers](khmer.md)</br>
+- [kmers](khmer.html)</br>
 
 ***
 
 ### __ADDITIONAL RESOURCES:__
 
-- [Canvas](https://mycourses.unh.edun)
+- [Canvas](https://mycourses.unh.edu)
 
 - [Github](https://macmanes.github.io/GEN711_S21/)
 
